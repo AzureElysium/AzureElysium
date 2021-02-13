@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzureElysium
+- 👋 Hi, I’m Rendy Perdana (@AzureElysium)
 - 👀 I’m interested in Web Programming Languages
 
 <!---
